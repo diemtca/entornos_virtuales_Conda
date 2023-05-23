@@ -1,0 +1,10 @@
+name: env_work
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+prefix: /home/diemtca/anaconda3/envs/env_work
